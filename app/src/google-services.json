@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393986733808",
+    "project_id": "oromia-1b311",
+    "storage_bucket": "oromia-1b311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393986733808:android:90fc052c8717f5d1567435",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393986733808-3u6akt7g9dv422l3t2auei2ur4it8ijm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKCeDPa-FnBPtcFhr-4Rm7EUdpgil3tK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393986733808-3u6akt7g9dv422l3t2auei2ur4it8ijm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
